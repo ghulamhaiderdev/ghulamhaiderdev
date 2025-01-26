@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Haider</h1>
-<h3 align="center">A Passionate Full Stack Developer with 3+ Years of Experience from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer with 3+ Years of Experience</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
@@ -109,7 +109,7 @@
 
 ### About Me:
 
-👨‍💻 **Experienced Full Stack Developer | LAMP Stack Expert** 🚀
+👨‍💻 **Experienced Full Stack Developer | LAMP Stack Developer** 🚀
 
 💼 **Full-stack developer** specializing in **LAMP stack** (Linux, Apache, MySQL, PHP), with proficiency in **Laravel** and **CodeIgniter** for building high-performance, scalable web applications.
 
