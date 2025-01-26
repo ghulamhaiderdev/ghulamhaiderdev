@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Haider</h1>
-<h3 align="center">A passionate Full Stack Developer with 3+ years of experience from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer with 3+ Years of Experience from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
@@ -108,10 +108,34 @@
 ---
 
 ### About Me:
-As a Full Stack Developer with **3+ years of professional experience** in the **corporate IT sector**, I specialize in building scalable, high-performance web applications. I am passionate about creating solutions that drive business success and am always learning new technologies to stay at the cutting edge of development.
 
-I work across the full stack—designing intuitive front-end interfaces and building robust back-end solutions. I'm eager to collaborate on exciting projects, solve complex problems, and build impactful applications.
+👨‍💻 **Experienced Full Stack Developer | LAMP Stack Expert** 🚀
+
+💼 **Full-stack developer** specializing in **LAMP stack** (Linux, Apache, MySQL, PHP), with proficiency in **Laravel** and **CodeIgniter** for building high-performance, scalable web applications.
+
+🐍 Skilled in **PHP**, **JavaScript**, **TypeScript**, and **Node.js**, with expertise in both **frontend** and **backend** technologies to build comprehensive, dynamic web solutions.
+
+🛠️ Proficient in **frontend technologies** such as **HTML5**, **CSS3**, **Bootstrap**, **React.js**, **jQuery**, and **Next.js**, ensuring responsive and modern web interfaces.
+
+🛢️ Experienced in **MySQL** database management, optimized queries, and data management to ensure seamless application performance.
+
+⚡ Strong backend skills with **Node.js**, **Express.js**, and **RESTful APIs**, ensuring smooth integration between frontend and backend components.
+
+📦 Proficient in **GitHub** for version control and efficient collaboration within development teams.
+
+💡 Passionate about delivering **scalable**, **maintainable**, and **secure** web applications that align with business goals.
+
+💬 Excellent communicator and team player, capable of collaborating with cross-functional teams to meet project deadlines and deliver high-quality products.
+
+💼 **Open to freelance opportunities** and **consulting projects**.
+
+🔍 **Additional Skills**:
+- Expertise in **Laravel** and **CodeIgniter** for building robust PHP-based web applications.
+- Advanced knowledge of **React.js**, **Next.js**, and **TypeScript** for modern web development.
+- Solid understanding of **RESTful APIs**, **GraphQL**, and **frontend-backend integrations**.
+- Familiar with **Docker** for containerization and efficient deployment.
+- Rapid learner, with strong problem-solving skills and the ability to adapt to new technologies quickly.
 
 ---
 
-Feel free to reach out to me for collaboration or any tech-related queries. Let's build something amazing together! 🚀
+Feel free to reach out for collaborations or tech-related discussions. Let’s build something amazing together! 🚀
