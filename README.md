@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Ghulam Haider</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer with 3+ years of experience from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghulamhaiderdev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamhaiderdev" />
 </p>
 
-- 🌱 I’m currently learning **TypeScript, Node.js, Docker**
-- 📫 How to reach me: **ghulamhaider082@gmail.com**
+- 🌱 **Currently learning**: **TypeScript**, **Node.js**, **Docker**
+- 💼 **Currently working** in the **Corporate IT sector**, delivering high-quality solutions and collaborating on large-scale projects.
+- 📫 **Reach out to me**: [ghulamhaider082@gmail.com](mailto:ghulamhaider082@gmail.com)
 
 ---
 
-
 ### GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamhaiderdev&show_icons=true&locale=en&layout=compact" alt="ghulamhaiderdev" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghulamhaiderdev&show_icons=true&locale=en" alt="ghulamhaiderdev" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhaiderdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Ghulam Haider GitHub Stats" width="48%" />
+</div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamhaiderdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ghulam Haider GitHub Languages" width="48%" />
+</div>
+
+---
 
 ### Connect with me:
+
 <p align="left">
   <a href="https://linkedin.com/in/ghulamhaider" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulamhaider" height="30" width="40" />
@@ -30,7 +34,8 @@
 
 ---
 
-### Languages and Tools:
+### Languages & Tools:
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -101,3 +106,12 @@
 </p>
 
 ---
+
+### About Me:
+As a Full Stack Developer with **3+ years of professional experience** in the **corporate IT sector**, I specialize in building scalable, high-performance web applications. I am passionate about creating solutions that drive business success and am always learning new technologies to stay at the cutting edge of development.
+
+I work across the full stack—designing intuitive front-end interfaces and building robust back-end solutions. I'm eager to collaborate on exciting projects, solve complex problems, and build impactful applications.
+
+---
+
+Feel free to reach out to me for collaboration or any tech-related queries. Let's build something amazing together! 🚀
