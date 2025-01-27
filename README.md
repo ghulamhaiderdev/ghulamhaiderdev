@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Haider</h1>
-<h3 align="center">A Passionate Full Stack Developer with 3+ Years of Experience</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 
 - 🌱 **Currently learning**: **TypeScript**, **Node.js**, **Docker**
