@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghulam Haider</h1>
 <h3 align="center">A Passionate Full Stack Developer with 3+ Years of Experience</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghulamhaiderdev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamhaiderdev" />
-</p>
 
 - 🌱 **Currently learning**: **TypeScript**, **Node.js**, **Docker**
 - 💼 **Currently working** in the **Corporate IT sector**, delivering high-quality solutions and collaborating on large-scale projects.
@@ -13,14 +9,81 @@
 ---
 
 ### GitHub Stats:
-
+<div style="display:flex;">
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ghulamhaiderdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Ghulam Haider GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamhaiderdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ghulam Haider GitHub Languages" width="48%" />
+
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulamhaiderdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ghulam Haider GitHub Languages" width="48%" />
+<div align="right">
+  <img align="right" alt="Coding" height="400" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
+</div>
+---
+
+
+<h3>💻 &nbsp;Frontend Skills</h3>
+
+- &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+
+---
+
+<h3>🛠️ &nbsp;Backend Skills</h3>
+
+- &nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
+
+
+
+---
+
+<h3>📂 &nbsp;Database Skills</h3>
+
+- &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+---
+
+
+
+<h3>🚀 &nbsp;Deployment & Cloud Platforms</h3>
+
+- &nbsp;
+  ![Amplify](https://img.shields.io/badge/-Amplify-333333?style=flat&logo=aws-amplify)
+  ![Hostinger](https://img.shields.io/badge/-Hostinger-333333?style=flat&logo=hostinger)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+
+---
+
+<h3>🔧 &nbsp;Version Control & CI/CD</h3>
+
+- &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ---
 
@@ -31,6 +94,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulamhaider" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
